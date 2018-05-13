@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Courloc</string>
+    <string name="title_home">Maison</string>
+    <string name="title_news">News</string>
+    <string name="title_list">List</string>
+    <string name="title_profil">Profil</string>
+    <string name="title_group">Cour</string>
+</resources>
