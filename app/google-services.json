@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1017748171023-8taecgqt7q3bc4hcm76ti8autlq36ab9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.machichiotte.courloc",
+            "certificate_hash": "1ef392d118874d209e336a4189a4ef06fae83393"
+          }
+        },
+        {
           "client_id": "1017748171023-mm8pk2b9pti1v13rib1m3mof50o0v8q3.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017748171023-mm8pk2b9pti1v13rib1m3mof50o0v8q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2

@@ -5,4 +5,15 @@
     <string name="title_list">List</string>
     <string name="title_profil">Profil</string>
     <string name="title_group">Cour</string>
+
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="login_title">Login</string>
+    <string name="create_act">Create Account</string>
+    <string name="etEmail">email</string>
+    <string name="etPassword">password</string>
+    <string name="send_password_reset_email">send password reset</string>
 </resources>

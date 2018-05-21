@@ -52,5 +52,6 @@ class BottomTabActivity : AppCompatActivity() {
         setContentView(R.layout.activity_bottom_tab)
 
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener)
-        navigation.menu.getItem(0).setChecked(true) }
+        navigation.menu.getItem(0).setChecked(true)
+    }
 }
